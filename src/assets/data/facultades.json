@@ -1,0 +1,43 @@
+{
+    "facultades":
+    [{
+        "id": "1",
+        "nombre": "Arquitectura, Diseño y Arte",
+        "img": "img/fada.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Ciencias Administrativas y Contables",
+        "img": "img/fcac.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Educación mención Educación Inicial",
+        "img": "img/emei.jpg"
+    },
+    {
+        "id": "4",
+        "nombre": "Enfermería",
+        "img": "img/fen.jpg"
+    },
+    {
+        "id": "5",
+        "nombre": "Ingeniería",
+        "img": "img/fi.jpg"
+    },
+    {
+        "id": "6",
+        "nombre": "Jurisprudencia",
+        "img": "img/fj.jpg"
+    },
+    {
+        "id": "7",
+        "nombre": "Psicología",
+        "img": "img/fs.jpg"
+    },
+    {
+        "id": "8",
+        "nombre": "Trabajo Social",
+        "img": "img/fts.jpg"
+    }]
+}

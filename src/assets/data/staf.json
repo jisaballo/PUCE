@@ -1,0 +1,381 @@
+{
+	"facultades":
+	[{
+		"id" : "2",
+		"profesor":
+		[{
+			"ID" : "1",
+			"Nombre" : "Alarcón Flor Mario Ramiro",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1351", 
+			"Email" : "malarcon@puce.edu.ec",
+			"Title1" : "Msc. en Doc. con mención en Cultura Religiosa",
+			"Title2" : "",
+			"Responsable" : "Responsable del Centro COSAIN",
+			"Img" : "img/ramiro_alarcon.png"
+		},
+		{
+			"ID" : "2",
+			"Nombre" : "Altamirano Cumbajin Jorge",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1960",
+			"Email" : "jpaltamirano@puce.edu.ec",
+			"Title1" : "Diplomado superior en Docencia Universitaria",
+			"Title2" : "Msc. en docencia Universitaria e Investigación Educativa",
+			"Responsable" : "Responsable de la Inserción laboral, prácticas pre profesionales y pasantías",
+			"Img" : "img/jorge_altamirano.jpg"
+		},
+		{
+			"ID" : "3",
+			"Nombre" : "Apolo Bustamante María Verónica",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 2913",
+			"Email" : "vapolo@puce.edu.ec",
+			"Title1" : "Msc. en Tec. para la Gestion y Práctica Docente",
+			"Title2" : "Msc. en Pedagogia y Gestion Universitaria",
+			"Responsable" : "Coordinadora de Área (Contabilidad y Auditoría) / Gestión de Titulación",
+			"Img" : "img/veronica_apolo.png"
+		},{
+			"ID" : "4",
+			"Nombre" : "Arellano Verdesoto Elsa Jaqueline",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1123",
+			"Email" : "ejarellano@puce.edu.ec",
+			"Title1" : "Msc. en administracion de salud",
+			"Title2" : "",
+			"Responsable" : "Coordinadora de Área (Humanística y Pastoral)",
+			"Img" : "img/jaqueline_arellano.png"
+		},{
+			"ID" : "5",
+			"Nombre" : "Ávila Proaño Leonardo Antonino",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1965",
+			"Email" : "laavila@puce.edu.ec",
+			"Title1" : "Msc. en Pedadodía y Gestión Universitaria",
+			"Title2" : "",
+			"Responsable" : "Responsable de la semana de Administración (Horas académicas)",
+			"Img" : "img/leonardo_avila.png"
+		},{
+			"ID" : "6",
+			"Nombre" : "Beltrán Morales Mayra Elizabeth",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1155",
+			"Email" : "mbeltran@puce.edu.ec",
+			"Title1" : "Msc. en Desarrollo Regional y Planificación Territorial",
+			"Title2" : "",
+			"Responsable" : "Responsable de vinculación - Acción Social",
+			"Img" : "img/mayra_beltran.jpg"
+		},{
+			"ID" : "7",
+			"Nombre" : "Cadena Vinueza Paulina Alexandra",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1563",
+			"Email" : "pcadena@puce.edu.ec",
+			"Title1" : "Msc. en Administración de empresas con mención en Gerencia de la calidad y productividad",
+			"Title2" : "Msc. en Pedagogía y Gestión Universitaria",
+			"Responsable" : "Responsable de Gestión de Calidad",
+			"Img" : "img/paulina_cadena.jpg"
+		},{
+			"ID" : "8",
+			"Nombre" : "Cagigal García José Luis",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1155",
+			"Email" : "jlcagigal@puce.edu.ec",
+			"Title1" : "Msc. en Gerencia Empresarial",
+			"Title2" : "",
+			"Responsable" : "Coordinador de Área (Finanzas) / Presidente (Comité de investigación)",
+			"Img" : "img/jose_cagigal.png"
+		},{
+			"ID" : "9",
+			"Nombre" : "Arturo Javier Carrera Vasco",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1421",
+			"Email" : "ajcarrera@puce.edu.ec",
+			"Title1" : "Msc. en Gerencia Empresarial",
+			"Title2" : "",
+			"Responsable" : "Responsable de Comunicación",
+			"Img" : "img/javier_carrera.jpg"
+		},{
+			"ID" : "10",
+			"Nombre" : "Cueva Brito Edgar Fabian",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1072",
+			"Email" : "efcuevab@puce.edu.ec",
+			"Title1" : "Msc. en Ciencias Internacionales",
+			"Title2" : "",
+			"Responsable" : "Responsable de Alumni",
+			"Img" : "img/fabian_cueva.png"
+		},{
+			"ID" : "11",
+			"Nombre" : "Daza Villadiego Carmen Cecilia",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1476",
+			"Email" : "cdazav@puce.edu.ec",
+			"Title1" : "Doctora en Administración",
+			"Title2" : "Msc. en Administración de empresas",
+			"Responsable" : "Integrante comité de Investigación",
+			"Img" : "img/camen_daza.jpg"
+		},{
+			"ID" : "12",
+			"Nombre" : "Fajardo Sempértegui Christian",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1941",
+			"Email" : "cafajardo@puce.edu.ec",
+			"Title1" : "Msc. en Tecnologías para la gestión y practica docente",
+			"Title2" : "",
+			"Responsable" : "Coordinador de Área (Emprendimiento)",
+			"Img" : "img/christian_fajardo.jpg"
+		},{
+			"ID" : "13",
+			"Nombre" : "Galárraga Tola Yaskarina",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1229",
+			"Email" : "ygalarraga@puce.edu.ec",
+			"Title1" : "Msc. en Pedagogía y Gestión Universitaria",
+			"Title2" : "",
+			"Responsable" : "Coordinador de Área (Economía)",
+			"Img" : "img/yaskarina_galarraga.jpg"
+		},{
+			"ID" : "14",
+			"Nombre" : "Herrera Heredia María Isidora",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1885",
+			"Email" : "mherrerah@puce.edu.ec",
+			"Title1" : "Msc. en Docencia Universitaria e Investigación Educativa",
+			"Title2" : "",
+			"Responsable" : "Responsable de Apoyo de Gestión (Investigación)",
+			"Img" : "img/maria_herrea.jpg"
+		},{
+			"ID" : "15",
+			"Nombre" : "Idrobo Dávalos Paúl Michael",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1478",
+			"Email" : "pmidrobo@puce.edu.ec",
+			"Title1" : "Msc. en Pedagogía y Gestión Universitaria",
+			"Title2" : "Msc. en Administación y Dirección de Empresas",
+			"Responsable" : "Coordinador de Área (Productividad) / Planificación Estratégica y Operativa",
+			"Img" : "img/paul_idrobo.jpg"
+		},{
+			"ID" : "16",
+			"Nombre" : "Jarrín Jaramillo Gladys Fabiola",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1478",
+			"Email" : "fjarrin@puce.edu.ec",
+			"Title1" : "Msc. en Pedagogía y Gestión Universitaria",
+			"Title2" : "",
+			"Responsable" : "Decana",
+			"Img" : "img/fabiola_jarrin.png"
+		},{
+			"ID" : "17",
+			"Nombre" : "Lara Moran María Fernanda",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 2910",
+			"Email" : "mflara@puce.edu.ec",
+			"Title1" : "Msc. of Business Administration",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/maria_lara_moran.jpg"
+		},{
+			"ID" : "18",
+			"Nombre" : "Lyko Marciak Halina María",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1180",
+			"Email" : "hlykom@puce.edu.ec",
+			"Title1" : "Msc. en Ciencias Económicas en la especialidad de Relaciones Internacionales",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/halina_lyko.png"
+		},{
+			"ID" : "19",
+			"Nombre" : "Maldonado Bohórquez Luisa Felicita",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1380",
+			"Email" : "fmaldonado@puce.edu.ec",
+			"Title1" : "Msc. en Pedagogía y Gestión Universitaria",
+			"Title2" : "",
+			"Responsable" : "Responsable de Gestión de talento Humano",
+			"Img" : "img/felicita_maldonado.png"
+		},{
+			"ID" : "20",
+			"Nombre" : "Maldonado Brown Luis Franklin",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1029",
+			"Email" : "lmaldonadob@puce.edu.ec",
+			"Title1" : "Msc. en Pedagogía y Gestión Universitaria",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/franklin_maldonado.jpg"
+		},{
+			"ID" : "21",
+			"Nombre" : "Maldonado Landeta Edmundo Patricio",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 2909",
+			"Email" : "epmaldonado@puce.edu.ec",
+			"Title1" : "Msc. en Administración de Empresas con mención en Negocios Internacionales",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/edmundo_maldonado.jpg"
+		},{
+			"ID" : "22",
+			"Nombre" : "Mancheno Egas Paulina Virginia",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1963",
+			"Email" : "pvmancheno@puce.edu.ec",
+			"Title1" : "Msc. en Docencia Universitaria e Investigación Educativa",
+			"Title2" : "",
+			"Responsable" : "Responsable del centro NAF`s",
+			"Img" : "img/paulina_mancheno.jpg"
+		},{
+			"ID" : "23",
+			"Nombre" : "Moscoso Toquica Francisco Iván",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1221",
+			"Email" : "fimoscoso@puce.edu.ec",
+			"Title1" : "Msc. en Administración de Empresas especialización Marketing",
+			"Title2" : "",
+			"Responsable" : "Coordinador de Área (Marketing) / Relaciones Internacionales",
+			"Img" : "img/francisco_moscoso.png"
+		},{
+			"ID" : "24",
+			"Nombre" : "Ordóñez Guerrero Roberto Fernando",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1317",
+			"Email" : "rordonezg@puce.edu.ec",
+			"Title1" : "Msc. en Administración de empresas con mención en Gerencia de la calidad y productividad",
+			"Title2" : "Msc. en Teología",
+			"Responsable" : "Responsable de Arquidiócesis",
+			"Img" : "img/roberto_ordonez.jpg"
+		},{
+			"ID" : "25",
+			"Nombre" : "Pérez Cajiao Gloria Nancy",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1223",
+			"Email" : "nperezc@puce.edu.ec",
+			"Title1" : "Msc. en Docencia Universitaria e Investigación Educativa",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/nancy_perez.png"
+		},{
+			"ID" : "26",
+			"Nombre" : "Petrovic Nikola",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1476",
+			"Email" : "npetrovic@puce.edu.ec",
+			"Title1" : "Doctor of Philosophy in Accounting and Finance",
+			"Title2" : "",
+			"Responsable" : "Integrante del Comité de Investigación",
+			"Img" : "img/nikola_petrovic.jpg"
+		},{
+			"ID" : "27",
+			"Nombre" : "Piñuela Espín Juan Carlos",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1987",
+			"Email" : "jcpinuela@puce.edu.ec",
+			"Title1" : "Msc. en Administración de Empresas con mención en Gerencia de la calidad y productividad",
+			"Title2" : "",
+			"Responsable" : "Responsable de Formación continua",
+			"Img" : "img/juanca_pinuela.jpg"
+		},{
+			"ID" : "28",
+			"Nombre" : "Ríos Álvarez Fany Elena",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1028",
+			"Email" : "frios@puce.edu.ec",
+			"Title1" : "Msc. en Docencia Universitaria e Investigación Educativa",
+			"Title2" : "",
+			"Responsable" : "Responsable del Diseño Curricular Pregrado",
+			"Img" : "img/fanny_rios.jpg"
+		},{
+			"ID" : "29",
+			"Nombre" : "Rosas Salas Fernando Javier",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1181",
+			"Email" : "fxrosass@puce.edu.ec",
+			"Title1" : "Msc. en Ciencias Económicas y Administrativas",
+			"Title2" : "Msc. en Dirección Comercial y Marketing",
+			"Responsable" : "Coordinador de carrera (Administración de Empresas",
+			"Img" : "img/fernando_rosas.png"
+		},{
+			"ID" : "30",
+			"Nombre" : "Rubio Díaz Myrian Patricia",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1030",
+			"Email" : "mrubiod@puce.edu.ec",
+			"Title1" : "Especialista en Tributación",
+			"Title2" : "Msc. en Docencia Universitario e Investigación Educativa",
+			"Responsable" : "Coordinador de carrera (Contabilidad y Auditoría) / Diseño Corricular",
+			"Img" : "img/miriam_rubio.png"
+		},{
+			"ID" : "31",
+			"Nombre" : "Rueda Fierro Ivan Alejandro",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1764",
+			"Email" : "iarueda@puce.edu.ec",
+			"Title1" : "Msc. en Docencia Universitaria e Investigación Educativa",
+			"Title2" : "",
+			"Responsable" : "Responsable de Aseguramiento de la calidad de las carreras / Consultorías",
+			"Img" : "img/ivan_rueda.jpg"
+		},{
+			"ID" : "32",
+			"Nombre" : "Saltos Mosquera Rodrigo Fernando",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1382",
+			"Email" : "rsaltosm@puce.edu.ec",
+			"Title1" : "Msc. en Educación a distancia",
+			"Title2" : "Msc. en Administración de empresas",
+			"Responsable" : "",
+			"Img" : "img/rodrigo_saltos.jpg"
+		},{
+			"ID" : "33",
+			"Nombre" : "Sierra Sierra Carlos Efraín",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 2911",
+			"Email" : "csierra738@puce.edu.ec",
+			"Title1" : "Msc. en Auditoría Integral",
+			"Title2" : "Diplomado superior en Gestión para el Aprendizaje Universitario",
+			"Responsable" : "",
+			"Img" : "img/carlos_sierra.png"
+		},{
+			"ID" : "34",
+			"Nombre" : "Torres Escobar Vicente Adrian",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1940",
+			"Email" : "vtorres@puce.edu.ec",
+			"Title1" : "Msc. en Administración de Empresas",
+			"Title2" : "Msc. en Pedagogía y Gestión Universitaria",
+			"Responsable" : "",
+			"Img" : "img/vicente_torres.png"
+		},{
+			"ID" : "35",
+			"Nombre" : "Verkovitch Irina Eugenievra",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1964",
+			"Email" : "iverkovitch@puce.edu.ec",
+			"Title1" : "Msc. en Gestión de la calidad y productividad",
+			"Title2" : "Msc. en Gobernabilidad y Gerencia Política",
+			"Responsable" : "Coordinadora de Área (Métodos Cuántitativos)",
+			"Img" : "img/irina_verkovitch.jpg"
+		},{
+			"ID" : "36",
+			"Nombre" : "Villamar Espín Inés Ximena",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1970",
+			"Email" : "ixvillamar@puce.edu.ec",
+			"Title1" : "Msc. en Docencia Universitaria e Investigación Educativa",
+			"Title2" : "",
+			"Responsable" : "Coordinadora de Área (Administración de Empresas)",
+			"Img" : "img/ximena_villamar.png"
+		},{
+			"ID" : "37",
+			"Nombre" : "Zamora Moreta Marina Genoveva",
+			"Tiempo" : "Tiempo completo",
+			"Telefono" : "+593 2991700 ext: 1329",
+			"Email" : "mgzamora@puce.edu.ec",
+			"Title1" : "Msc. en Administración de empresas mención en Gerencia de la calidad y productividad",
+			"Title2" : "",
+			"Responsable" : "Sub Decana",
+			"Img" : "img/genoveva_zamora.png"
+		}]
+	}]
+	
+}

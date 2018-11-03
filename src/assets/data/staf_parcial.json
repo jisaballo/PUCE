@@ -1,0 +1,249 @@
+{
+	"facultades":
+	[{
+		"id" : "2",
+		"profesor":
+		[{
+			"ID" : "1",
+			"Nombre" : "Cadena Echeverría Jaime",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "jcadena404@puce.edu.ec",
+			"Title1" : "Mastegister en Ingeniería Industrial. Msc.",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/jaime_cadena.jpg"
+		},{
+			"ID" : "2",
+			"Nombre" : "Chafla Martinez Pablo",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "pchafla328@puce.edu.ec",
+			"Title1" : "Doctor en Economía",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/pablo_chafla.jpg"
+		},{
+			"ID" : "3",
+			"Nombre" : "Cobos Guzmán Rómulo Lenín",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "rlcobos@puce.edu.ec",
+			"Title1" : "Magister en Docencia Universitaria e Investigación Educativa",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/lenin_cobos.jpg"
+		},{
+			"ID" : "4",
+			"Nombre" : "Cóndor Salazar Bolívar Raúl",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "brcondor@puce.edu.ec",
+			"Title1" : "Especialista superior en archivistica y patrimonio documental",
+			"Title2" : "Magister en Administración de empresas con mención en Gerencia de la calidad y productividad",
+			"Responsable" : "",
+			"Img" : "img/bolivar_condor.jpg"
+		},{
+			"ID" : "5",
+			"Nombre" : "Dávila Grijalva Wilson José Alberto",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "wjdavila@puce.edu.ec",
+			"Title1" : "Magister en Gerencia empresarial MBA",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/alberto_davila.jpg"
+		},{
+			"ID" : "6",
+			"Nombre" : "Guerra Hoyos Mónica",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "mpguerrah@puce.edu.ec",
+			"Title1" : "Diploma superior en fundamentos de la educación a distancia e investigación",
+			"Title2" : "Doctor en jurisprudencia y abogado de los tribunales y juzgados de la república",
+			"Responsable" : "",
+			"Img" : "img/monica_guerra.jpg"
+		},{
+			"ID" : "7",
+			"Nombre" : "Hidalgo Solá David Alfonso",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "dahidalgos@puce.edu.ec",
+			"Title1" : "Diploma superior en implantación y gestión de la calidad con normas ISO",
+			"Title2" : "Magister en Administración y Marketing",
+			"Responsable" : "",
+			"Img" : "img/david_hidalgo.jpg"
+		},{
+			"ID" : "8",
+			"Nombre" : "Lituma Delgado Walter Armando",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "walituma@puce.edu.ec",
+			"Title1" : "Magister en derecho tributario",
+			"Title2" : "Magister en docencia universitaria e investigación educativa",
+			"Responsable" : "",
+			"Img" : "img/armando_lituma.jpg"
+		},{
+			"ID" : "9",
+			"Nombre" : "Luna Hermosa German Vinicio",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "gvluna@puce.edu.ec",
+			"Title1" : "Magister en gerencia empresarial MBA. mención gerencia de operaciones y calidad",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/german_luna.jpg"
+		},{
+			"ID" : "10",
+			"Nombre" : "Ocaña Mazon Edmundo Mesias",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "eocana790@puce.edu.ec",
+			"Title1" : "Magister en gerencia empresarial MBA. mención gestión de proyectos",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/edmundo_ocana.jpg"
+		},{
+			"ID" : "11",
+			"Nombre" : "Ortiz Lucero María Fernanda",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "mortiz078@puce.edu.ec",
+			"Title1" : "Magister en gestión del desarrollo local comunitario",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/mf_ortiz.jpg"
+		},{
+			"ID" : "12",
+			"Nombre" : "Panchi Vasco Luis Augusto",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "lapanchi@puce.edu.ec",
+			"Title1" : "Magister en economía con mención en economía del desarrollo",
+			"Title2" : "Doctor en filosofía",
+			"Responsable" : "",
+			"Img" : "img/luis_panchi.jpg"
+		},{
+			"ID" : "13",
+			"Nombre" : "Proaño Egas Freddy Omar",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "foproano@puce.edu.ec",
+			"Title1" : "Doctor en jurisprudencia",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/freddy_proano.png"
+		},{
+			"ID" : "14",
+			"Nombre" : "Quisiguiña Calle Francisco Xavier",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "fquisiguina@puce.edu.ec",
+			"Title1" : "Magister en administración de empresas MBA",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/francisco_quisiguina.jpg"
+		},{
+			"ID" : "15",
+			"Nombre" : "Ramírez Cárdenas Alexanddra",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "aramirez@puce.edu.ec",
+			"Title1" : "Magister en pedagogía y gestión universitaria",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/alexandra_ramirez.jpg"
+		},{
+			"ID" : "16",
+			"Nombre" : "Ramírez Cárdenas Darwin Fernando",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "dframirez@puce.edu.ec",
+			"Title1" : "Magister artium administración para el desarrollo",
+			"Title2" : "Master en banca y finanzas",
+			"Responsable" : "",
+			"Img" : "img/darwin_ramirez.jpg"
+		},{
+			"ID" : "17",
+			"Nombre" : "Reinoso Villavicencio Nelson",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "ndreinoso@puce.edu.ec",
+			"Title1" : "Magister en pedagogía proferional",
+			"Title2" : "Diplomado superior en metodología de la investigación científica",
+			"Responsable" : "",
+			"Img" : "img/nelson_reinoso.jpg"
+		},{
+			"ID" : "18",
+			"Nombre" : "Sánchez León Galo Fernando",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "fsanchez@puce.edu.ec",
+			"Title1" : "Master en dirección de empresas MBA",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/galo_sanchez.jpg"
+		},{
+			"ID" : "19",
+			"Nombre" : "Silva Mantilla Wilson Antonio",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "wasilva@puce.edu.ec",
+			"Title1" : "Master en administración de negocios",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/wilson_silva.jpg"
+		},{
+			"ID" : "20",
+			"Nombre" : "Soria Cubillo Ramiro Mauricio",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "rmsoria@puce.edu.ec",
+			"Title1" : "Diploma superior en competencias para la docencia superior",
+			"Title2" : "Magister en gerencia empresarial, MBA",
+			"Responsable" : "",
+			"Img" : "img/ramiro_soria.jpg"
+		},{
+			"ID" : "21",
+			"Nombre" : "Suquillo Guijarro Edwin Javier",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "esuquillo@puce.edu.ec",
+			"Title1" : "Magister en redes de comunicación",
+			"Title2" : "Magister en pedagogía y gestión universitaria",
+			"Responsable" : "",
+			"Img" : "img/edwin_suquillo.jpg"
+		},{
+			"ID" : "22",
+			"Nombre" : "Tola Jaramillo Victor René",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "vrtola@puce.edu.ec",
+			"Title1" : "Magister en administración de negocios",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/rene_tola.jpg"
+		},{
+			"ID" : "23",
+			"Nombre" : "Vallejo Bedoya Henry Gustavo",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "hvallejo659@puce.edu.ec",
+			"Title1" : "Magister en gerencia empresarial MBA mención gerencia financiera",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/gustavo_vallejo.jpg"
+		},{
+			"ID" : "24",
+			"Nombre" : "Yánez Trujillo Marco Alberto",
+			"Tiempo" : "Docente tiempo parcial",
+			"Telefono" : "", 
+			"Email" : "myanezt@puce.edu.ec",
+			"Title1" : "Magister en pedagogía y gestión universitaria",
+			"Title2" : "",
+			"Responsable" : "",
+			"Img" : "img/marco_yanez.jpg"
+		}]
+	}]
+	
+}

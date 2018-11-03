@@ -1,0 +1,31 @@
+{
+    "integrantes":
+    [{
+        "id": "1",
+        "nombre": "Maria J. Tapia García",
+        "email": "mj-pepita@live.com",
+        "telefono": "0987594790",
+        "img": "img/ma_tapia.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Roberto F. Echeverría Maggio",
+        "email": "pepaso262@hotmail.com",
+        "telefono": "0983945482",
+        "img": "img/felipe.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Juan C. Garzón Nicolalde",
+        "email": "juanca-9307@hotmail.com",
+        "telefono": "0997205694",
+        "img": "img/juanca.jpg"
+    },
+    {
+        "id": "4",
+        "nombre": "Jose I. Saballo López",
+        "email": "jisaballo@outlook.com",
+        "telefono": "0996081039",
+        "img": "img/saballo.jpg"
+    }]
+}

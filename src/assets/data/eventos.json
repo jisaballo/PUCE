@@ -1,0 +1,24 @@
+{
+    "eventos":
+    [{
+        "id": "1",
+        "header": "Homenaje a Mercedes Sosa",
+        "fecha": "4 de julio – 17 de julio",
+        "texto": "El Centro Cultural de la Pontificia Universidad Católica del Ecuador y la Embajada de la República Argentina en Ecuador, en colaboración con la Red Cineclubes Ecuador, invitan al “Homenaje a Mercedes Sosa”.",
+        "img": "img/ma_tapia.jpg"
+    },
+    {
+        "id": "2",
+        "header": "Presentación del Libro 'La Conquista del Trópico'",
+        "fecha": "jueves, 20 de abril",
+        "texto": "La Pontificia Universidad Católica del Ecuador, su Centro Cultural y el Centro de Publicaciones, se complacen en invitar a la presentación del libro 'La conquista del trópico, exploradores y botánicos en el Ecuador del siglo XIX' de Fernando Hidalgo Nistri, el día jueves 20 de abril a las 19h00 en el Auditorio Mayor del cuarto piso del Centro Cultural PUCE.",
+        "img": "img/ma_tapia.jpg"
+    },
+    {
+        "id": "3",
+        "header": "Exposición de Ramón Piaguaje",
+        "fecha": "9 de marzo – 23 de marzo",
+        "texto": "Ramón Piaguaje, artista amazónico nacido en Cuyabeno, único artista de la “llanura Amazónica de América”, cuyo arte se ha consagrado a nivel mundial. “Árbol y río cincelaron su composición física –pujanza y transparencia-. Vivaz, risueño, recio y sensible; familiar… de sonrisa franca que ilumina su rostro de niño…suele abrazar como abrazan los árboles: prodigando energía…”",
+        "img": "img/ma_tapia.jpg"
+    }]
+}

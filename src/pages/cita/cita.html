@@ -1,0 +1,45 @@
+<!--
+  Generated template for the CitaPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar color="puce">
+    <ion-title>Agendar cita</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+    <ion-item>
+      <ion-label floating>Nombre</ion-label>
+      <ion-input type="text" value=""></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label floating>Identificacion</ion-label>
+      <ion-input type="text"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label floating>Teléfono</ion-label>
+      <ion-input type="text"></ion-input>
+    </ion-item>
+      <ion-list>
+        <ion-item>
+          <ion-label>Tipo de cita</ion-label>
+          <ion-select [(ngModel)]="type">
+            <ion-option value="clase">Clase</ion-option>
+            <ion-option value="entrevista">Entrevista</ion-option>
+          </ion-select>
+        </ion-item>
+      </ion-list>
+    <ion-item>
+      <ion-label floating>Comentarios</ion-label>
+      <ion-textarea type="text"></ion-textarea>
+    </ion-item>
+    <button ion-button full (click)="agendar()">Agendar</button>
+</ion-list>
+</ion-content>

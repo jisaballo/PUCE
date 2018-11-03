@@ -1,0 +1,24 @@
+{
+    "eventos":
+    [{
+        "id": "1",
+        "header": "Miercoles - Centro Cultural",
+        "fecha": "09:00 – 11:00 de julio",
+        "texto": "CV del siglo XXI. GLED EDUCATION FEUCE-Q",
+        "img": "img/ma_tapia.jpg"
+    },
+    {
+        "id": "2",
+        "header": "Miercoles - TORRE 1 PB",
+        "fecha": "08:00 – 11:00 de julio",
+        "texto": "Concurso de emprendimiento. Principiantes 1",
+        "img": "img/ma_tapia.jpg"
+    },
+    {
+        "id": "3",
+        "header": "Miecoles - Centro Cultural",
+        "fecha": "11:00 - 13:00 de julio",
+        "texto": "La clave del Marketing: Emotion Share y Legacy Share. SPROCKET. FEUCE-Q",
+        "img": "img/ma_tapia.jpg"
+    }]
+}

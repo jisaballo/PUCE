@@ -1,0 +1,21 @@
+<!--
+  Generated template for the DocentesParcialesPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar color="puce">
+    <ion-title>Docentes Parciales</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-searchbar (ionInput)="getItems($event)" (ionClear)="getAllItems()" (ionCancel)="getAllItems()"></ion-searchbar>
+  <ion-list>
+    <ion-item *ngFor="let prof of staf_parciales">
+      <button ion-item no-lines (click)="prof_detalles(prof.ID)">{{prof.Nombre}}</button>
+      <ion-avatar item-start><img width="300" height="300" class="docente" src="assets/{{prof.Img}}"></ion-avatar>
+      </ion-item>
+  </ion-list>
+</ion-content>
